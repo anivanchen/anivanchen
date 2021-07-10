@@ -1,5 +1,7 @@
 ### Hi there, my name is Ivan Chen. 👋
 
+You can contact me at [ivanchen07@gmail.com](mailto:ivanchen07@gmail.com).
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
