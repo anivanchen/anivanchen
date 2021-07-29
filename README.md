@@ -1,17 +1,17 @@
 # Hi there, my name is Ivan Chen. 
 
-### I'm a rising sophmore at [Stuyvesant High School](https://stuy.enschool.org/) and I enjoy mathematics, computer science, and programming. 
+I'm a rising sophmore at [Stuyvesant High School](https://stuy.enschool.org/) and I enjoy mathematics, computer science, and programming. 
 
 ## Technologies / Langauages I've Worked With
 
-- ### JavaScript
-- ### Python
-- ### Java
-- ### C#
-- ### Node.js
-- ### React.js
-- ### Express.js
-- ### PostgreSQL
+- JavaScript
+- Python
+- Java
+- C#
+- Node.js
+- React.js
+- Express.js
+- PostgreSQL
 - ### Discord.js
 
 ## My Stats
