@@ -12,7 +12,7 @@ I'm a rising sophmore at [Stuyvesant High School](https://stuy.enschool.org/) an
 - React.js
 - Express.js
 - PostgreSQL
-- ### Discord.js
+- Discord.js
 
 ## My Stats
 
