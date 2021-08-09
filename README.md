@@ -1,10 +1,12 @@
-# Hi there, I'm [Ivan Chen](https://anivanchen.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=FFFFFF&size=30&vCenter=true&lines=Hi+there%2C+I'm+Ivan+Chen;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E5%8F%AB+Ivan+Chen;Hola%2C+soy+Ivan+Chen;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%E3%82%8F%E3%81%9F%E3%81%97+%E3%82%8F+Ivan+Chen;Bonjour+je+suis+Ivan+Chen;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+Ivan+Chen)
 
 ```
 const ivanChen = {
     pronouns: 'he' | 'him',
+    country: 'United States',
+    location: 'New York, New York'
     status: 'rising sophmore @ Stuyvesant High School',
-    occupation: ['@ StuyPulse']
+    occupation: ['@StuyPulse']
     am: ['programmer', 'web dev', 'math person', 'techie', 'your average IT guy'],
     code: [Javascript, Python, HTML, CSS, Java, C#],
     technologies: {
