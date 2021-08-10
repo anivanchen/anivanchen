@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=FFFFFF&size=30&vCenter=true&lines=Hi+there%2C+I'm+Ivan+Chen;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E5%8F%AB+Ivan+Chen;Hola%2C+soy+Ivan+Chen;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%E3%82%8F%E3%81%9F%E3%81%97+%E3%82%8F+Ivan+Chen;Bonjour+je+suis+Ivan+Chen;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+Ivan+Chen)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=FFFFFF&size=30&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ivan+Chen.;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E5%8F%AB+Ivan+Chen%E3%80%82;Hola%2C+soy+Ivan+Chen.;%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%E3%80%82%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%AF+Ivan+Chen+%E3%81%A7%E3%81%99%E3%80%82;Bonjour%2C+je+suis+Ivan+Chen.;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+Ivan+Chen+%EC%9E%85%EB%8B%88%EB%8B%A4%E3%80%82)
 
 ```
 const ivanChen = {
