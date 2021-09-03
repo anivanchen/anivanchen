@@ -26,11 +26,5 @@ I use **Docker** and Heroku for deployment. I use **React** for front-end, **Exp
     <img src="https://github-readme-stats.vercel.app/api?username=anivanchen&count_private=true&show_icons=true&theme=dark">
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anivanchen&theme=dark">
-</p>
-<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anivanchen&layout=compact&hide=Dockerfile&theme=dark">
-</p>
-<p align="center">
-    <a href="https://stackoverflow.com/users/14101065/ivan-chen"><img src="https://stackoverflow.com/users/flair/14101065.png?theme=dark" width="208" height="58" alt="Ivan Chen's Stack Overflow Profile" title="Ivan Chen's Stack Overflow Profile"></a>
 </p>
