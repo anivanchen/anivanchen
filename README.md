@@ -25,6 +25,8 @@ I use **Docker**, Heroku, and GitHub Pages for deployment. I use **React** for f
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=anivanchen&count_private=true&show_icons=true&theme=dark">
 </p>
+<!--
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anivanchen&layout=compact&hide=Dockerfile&theme=dark">
 </p>
+-->
