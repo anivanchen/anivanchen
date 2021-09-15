@@ -16,6 +16,8 @@ I'm a **high school student** who does programming side projects for fun. My fav
 
 I use **Docker**, Heroku, and GitHub Pages for deployment. I use **React** for front-end, **Express** for middle-ware, **Node** for back-end, and **PostgreSQL** and **MongoDB** for database management. 
 
+If there is a repository without anything except for a LICENSE and README.md, it is probably an idea I had which I have not yet implemented or worked on. 
+
 <h1></h1>
 <p align="center">
     <a href="https://anivanchen.github.io"><img src="https://img.shields.io/badge/My Website-red?style=for-the-badge"></a>
