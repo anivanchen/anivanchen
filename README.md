@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ivan!</h1>
+<h2 align="center">Hi there, I'm Ivan!</h2>
 
 ```
 const ivanChen = {
@@ -23,7 +23,7 @@ If there is a repository without anything except for a LICENSE and README.md, it
     <a href="https://github.com/StuyPulse"><img src="https://img.shields.io/badge/StuyPulse-white?style=for-the-badge"></a>
 </p>
 <details align="center">
-    <summary>Details</summary>
+    <summary>➸ Details</summary>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=anivanchen&count_private=true&show_icons=true&theme=dark">
     </p>
