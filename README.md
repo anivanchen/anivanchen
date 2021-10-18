@@ -11,7 +11,7 @@ const ivanChen = {
 };
 ```
 
-I'm a **high school student** who does programming side projects for fun. My favorite programming languages are **JavaScript**, **Python**, and **Next**.js. I have an interest for cryptography, artificial intelligence, and IT infrastructure but I enjoy learning about tech related topics. 
+I'm a **high school student** who does programming side projects for fun. My favorite programming technologies are **JavaScript**, **Python**, and **Next.js**. I have an interest for cryptography, artificial intelligence, and IT infrastructure but I enjoy learning about tech related topics. 
 
 I use **Docker**, Heroku, and GitHub Pages for deployment. I use **React** for front-end, **Express** for middle-ware, **Node** for back-end, and **PostgreSQL** and **MongoDB** for database management. 
 
