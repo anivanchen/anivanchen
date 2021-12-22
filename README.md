@@ -5,8 +5,8 @@ const ivanChen = {
     pronouns: 'he' | 'him',
     country: 'United States',
     location: 'New York, New York'
-    status: 'rising sophmore @ Stuyvesant High School',
-    occupation: ['Software Engineer @ StuyPulse']
+    status: 'sophmore @ Stuyvesant High School',
+    occupations: ['StuyPulse', 'Sophomore Caucus', 'StuySpec']
     am: ['programmer', 'web dev', 'math person', 'techie', 'your average IT guy'],
 };
 ```
