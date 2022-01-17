@@ -13,14 +13,16 @@ const ivanChen = {
 
 I'm a **high school student** who does programming side projects for fun. My favorite programming technologies are **JavaScript**, **Python**, and **Next.js**. I have an interest for cryptography, artificial intelligence, and IT infrastructure but I enjoy learning about tech related topics. 
 
-I use **Docker**, Heroku, and GitHub Pages for deployment. I use **React** for front-end, **Express** for middle-ware, **Node** for back-end, and **PostgreSQL** and **MongoDB** for database management. 
+I use **Docker**, Heroku, and GitHub Pages for deployment. I use **React** and **Next** for front-end, **Express** for middle-ware, **Node** for back-end, and **PostgreSQL** and **MongoDB** for database management. 
 
 If there is a repository without anything except for a LICENSE and README.md, it is probably an idea I had which I have not yet implemented or worked on. 
 
 <p align="center">
-    <a href="https://anivanchen.github.io"><img src="https://img.shields.io/badge/My Website-red?style=for-the-badge"></a>
+    <a href="https://anivanchen.github.io"><img src="https://img.shields.io/badge/My Website-white?style=for-the-badge"></a>
     <a href="https://stuy.enschool.org"><img src="https://img.shields.io/badge/Stuyvesant High School-blue?style=for-the-badge"></a>
-    <a href="https://github.com/StuyPulse"><img src="https://img.shields.io/badge/StuyPulse-white?style=for-the-badge"></a>
+    <a href="https://github.com/StuyPulse"><img src="https://img.shields.io/badge/StuyPulse-red?style=for-the-badge"></a>
+    <a href="https://github.com/StuySpec"><img src="https://img.shields.io/badge/StuySpec-white?style=for-the-badge"></a>
+    <a href="https://github.com/StuySU"><img src="https://img.shields.io/badge/StuySU-navy?style=for-the-badge"></a>
 </p>
 <details align="center">
     <summary>➸ Details</summary>
