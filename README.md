@@ -11,7 +11,7 @@ const ivanChen = {
 };
 ```
 
-I'm a **high school student** who does programming side projects for fun. My favorite programming technologies are **JavaScript**, **Python**, and **Next.js**. I have an interest for cryptography, artificial intelligence, and IT infrastructure but I enjoy learning about tech related topics. 
+I'm a **high school student** who does programming side projects for fun. My favorite programming technologies are **TypeScript**, **Python**, and **Next.js**. I have an interest for cryptography, artificial intelligence, and IT infrastructure but I enjoy learning about tech related topics. 
 
 I use **Docker**, Heroku, and GitHub Pages for deployment. I use **React** and **Next** for front-end, **Express** for middle-ware, **Node** for back-end, and **PostgreSQL** and **MongoDB** for database management. 
 
@@ -33,6 +33,6 @@ If there is a repository without anything except for a LICENSE and README.md, it
         <img src="https://github-readme-stats.vercel.app/api?username=anivanchen&count_private=true&show_icons=true&theme=dark">
     </p>
     </p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anivanchen&layout=compact&hide=Dockerfile&theme=dark">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anivanchen&layout=compact&hide=Dockerfile&exclude_repo=stuycs-annual&theme=dark">
     </p>
 </details>
