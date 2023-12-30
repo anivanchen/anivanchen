@@ -2,8 +2,6 @@
 
 **Software Engineer** at [StuyPulse](https://stuypulse.com)
 
-**Director of IT** at [StuySU Junior Caucus](https://junior.stuysu.org)
-
 **Web Development Lead** at [The Stuyvesant Spectator](https://stuyspec.com)
 
 ![](https://komarev.com/ghpvc/?username=anivanchen)
@@ -15,12 +13,12 @@ I'm a high school student who enjoys working on programming projects. I have int
 ```javascript
 const ivan = {
     pronouns: "he" | "him",
-    code: [Python, Java, Typescript, HTML, CSS],
+    code: [C, Python, Java, Typescript, HTML, CSS],
     tools: [React, Next, Node, Express, PostgreSQL, MongoDB, Heroku, Docker],
     status: "Junior at Stuyvesant High School",
     location: "New York, New York",
     supports: "Right to Repair",
-    am: ["Programmer", "Web Developer", "Designer", "Computer / IT Geek", "Coffee Consumer"]
+    am: ["Programmer", "Web Developer", "Designer", "Computer / IT Nerd", "Coffee Lover"]
 }
 ```
 
