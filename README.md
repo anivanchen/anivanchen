@@ -1,4 +1,4 @@
-md# Hi, I'm Ivan Chen
+# Hi, I'm Ivan Chen
 
 I'm a university student who enjoys working on programming projects. I have interests in cryptography, artificial intelligence, and IT infrastructure, but all tech-related topics are welcome.
 
