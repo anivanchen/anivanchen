@@ -1,6 +1,4 @@
-# Hi, I'm Ivan Chen.
-
-## A little bit more about me...
+md# Hi, I'm Ivan Chen
 
 I'm a university student who enjoys working on programming projects. I have interests in cryptography, artificial intelligence, and IT infrastructure, but all tech-related topics are welcome.
 
@@ -15,11 +13,12 @@ const ivan = {
     am: ["Programmer", "Computer / IT Nerd", "Roboticist", "Coffee Lover"]
 }
 ```
-
+<!--
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=anivanchen&count_private=true&show_icons=true&theme=dark" height="200px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anivanchen&layout=compact&hide=Dockerfile&exclude_repo=stuycs-annual&theme=dark" height="200px">
 </p>
+-->
 
 <p align="center">
     <a href="https://ivanchen.dev"><img src="https://img.shields.io/badge/ivanchen.dev-white?style=for-the-badge"></a>
