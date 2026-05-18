@@ -8,7 +8,7 @@ const ivan = {
     tools: [React, Next, Node, Express, PostgreSQL, MongoDB, Heroku, Docker],
     education: "Rising Junior at Rochester Institute of Technology",
     major: "Computer Engineering Technology",
-    occupation: "SWE Intern @ Rivian and Volkswagen Group Technologies"
+    occupation: "SWE Intern @ Rivian and Volkswagen Group Technologies",
     location: "Irvine, California",
     am: ["Programmer", "Computer / IT Nerd", "Roboticist", "Coffee Lover"]
 }
