@@ -1,15 +1,15 @@
 # Hi, I'm Ivan Chen
 
-I'm a university student who enjoys working on programming projects. I have interests in cryptography, artificial intelligence, and IT infrastructure, but all tech-related topics are welcome.
+I'm a university student who enjoys working on programming projects. I have interests in robotics, artificial intelligence, and controls, but all tech-related topics are welcome.
 
 ```javascript
 const ivan = {
-    pronouns: "he" | "him",
-    code: [C, Python, Java, Typescript, HTML, CSS],
+    code: [C/C++, Python, Java, Typescript, HTML, CSS],
     tools: [React, Next, Node, Express, PostgreSQL, MongoDB, Heroku, Docker],
-    status: "Freshman at Rochester Institute of Technology",
+    education: "Rising Junior at Rochester Institute of Technology",
     major: "Computer Engineering Technology",
-    location: "New York, New York",
+    occupation: "SWE Intern @ Rivian and Volkswagen Group Technologies"
+    location: "Irvine, California",
     am: ["Programmer", "Computer / IT Nerd", "Roboticist", "Coffee Lover"]
 }
 ```
